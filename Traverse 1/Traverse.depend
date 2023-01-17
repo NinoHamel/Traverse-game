@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589357339 source:c:\users\max\desktop\rendu projet traverse\traverse 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
